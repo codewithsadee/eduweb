@@ -1,0 +1,261 @@
+EduWeb - The Best Program to Enroll for Exchange
+This is an education html template made by codewithsadee
+
+
+
+#---------- HEADER ----------#
+
+alt = EduWeb logo
+
+aria-label = close menu
+<ion-icon name="close-outline" aria-hidden="true"></ion-icon>
+
+Home
+About
+Courses
+Blog
+Contact
+
+aria-label = toggle search
+<ion-icon name="search-outline" aria-hidden="true"></ion-icon>
+
+aria-label = cart
+<ion-icon name="cart-outline" aria-hidden="true"></ion-icon>
+0
+
+Try for free
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+aria-label = open menu
+<ion-icon name="menu-outline" aria-hidden="true"></ion-icon>
+
+
+
+
+#---------- HERO ----------#
+
+The Best Program to 
+Enroll 
+for Exchange
+
+Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit.
+
+Find courses 
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+alt = hero banner
+
+
+
+#---------- CATEGORY ----------#
+
+Categories
+
+Online
+Classes
+For Remote Learning.
+
+Consectetur adipiscing elit sed do eiusmod tempor.
+
+color = 170, 75%, 41%
+alt = Online Degree Programs
+Online Degree Programs
+Lorem ipsum dolor consec tur elit adicing sed umod tempor.
+7 Courses
+
+color = 351, 83%, 61%
+alt = Non-Degree Programs
+Non-Degree Programs
+4 Courses
+
+color = 229, 75%, 58%
+alt = Off-Campus Programs
+Off-Campus Programs
+8 Courses
+
+color = 42, 94%, 55%
+alt = Hybrid Distance Programs
+Hybrid Distance Programs
+
+
+
+#---------- ABOUT ----------#
+
+alt = about banner
+
+About Us
+
+Over 10 Years in
+Distant learning
+for Skill Development
+
+Lorem ipsum dolor sit amet consectur adipiscing elit sed eiusmod ex tempor incididunt labore dolore magna aliquaenim ad minim.
+
+<ion-icon name="checkmark-done-outline" aria-hidden="true"></ion-icon>
+
+Expert Trainers
+Online Remote Learning
+Lifetime Access
+
+
+
+#---------- COURSE ----------#
+
+Popular Courses
+
+Pick A Course To Get Started
+
+alt = Build Responsive Real- World Websites with HTML and CSS
+
+<ion-icon name="time-outline" aria-hidden="true"></ion-icon>
+3 Weeks
+
+Beginner
+Build Responsive Real- World Websites with HTML and CSS
+
+<ion-icon name="star"></ion-icon>
+(5.0/7 Rating)
+$29.00
+
+<ion-icon name="library-outline" aria-hidden="true"></ion-icon>
+8 Lessons
+
+<ion-icon name="people-outline" aria-hidden="true"></ion-icon>
+20 Students
+
+
+alt = Java Programming Masterclass for Software Developers
+
+8 Weeks
+Advanced
+Java Programming Masterclass for Software Developers
+    
+(4.5 /9 Rating)
+$49.00
+
+15 Lessons
+35 Students
+
+
+alt = The Complete Camtasia Course for Content Creators
+
+3 Weeks
+Intermediate
+The Complete Camtasia Course for Content Creators
+    
+(4.9 /7 Rating)
+$35.00
+
+13 Lessons
+18 Students
+
+
+Browse more courses
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+
+
+#---------- VIDEO ----------#
+
+alt = video banner
+
+aria-label = play video
+<ion-icon name="play" aria-hidden="true"></ion-icon>
+
+
+
+#---------- STATS ----------#
+
+color = 170, 75%, 41%
+29.3k
+Student Enrolled
+
+color: = 351, 83%, 61%
+32.4K
+Class Completed
+
+color = 260, 100%, 67%
+100%
+Satisfaction Rate
+
+color = 42, 94%, 55%
+354+
+Top Instructors
+
+
+
+#---------- BLOG ----------#
+
+Latest Articles
+Get News With Eduweb
+
+alt = Become A Better Blogger: Content Planning
+
+aria-label = read more
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+Online
+
+Become A Better Blogger: Content Planning
+
+<ion-icon name="calendar-outline" aria-hidden="true"></ion-icon>
+Oct 10, 2021
+
+<ion-icon name="chatbubbles-outline" aria-hidden="true"></ion-icon>
+Com 09
+
+Lorem Ipsum Dolor Sit Amet Cons Tetur Adipisicing Sed.
+
+
+
+#---------- FOOTER ----------#
+
+alt = EduWeb logo
+
+Lorem ipsum dolor amet consecto adi pisicing elit sed eiusm tempor incidid unt labore dolore.
+
+Add:
+70-80 Upper St Norwich NR2
+Call:
++01 123 4567 890
+Email:
+info@eduweb.com
+
+Online Platform
+About
+Courses
+Instructor
+Events
+Instructor Profile
+Purchase Guide
+
+Links
+Contact Us
+Gallery
+News & Articles
+FAQ's
+Sign In/Registration
+Coming Soon
+
+Contacts
+Enter your email address to register to our newsletter subscription
+
+placeholder = Your email
+Subscribe 
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-linkedin"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-youtube"></ion-icon>
+
+
+Copyright 2022 All Rights Reserved by codewithsadee
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label = back top top
+<ion-icon name="chevron-up" aria-hidden="true"></ion-icon>
