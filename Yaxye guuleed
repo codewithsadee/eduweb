@@ -1,0 +1,200 @@
+Build a complete School Management System website using HTML, CSS, and JavaScript.
+
+Website-ku ha noqdo mid modern, professional, responsive, oo si fiican uga shaqeeya mobile, tablet iyo computer.
+
+1. Student Search
+
+Samee page ama section la yiraahdo Student Search oo maamulka uu ardayga ku raadin karo:
+
+- Magaca ardayga
+- Student ID
+- Fasalka
+
+Marka ardayga la raadiyo, soo muuji:
+
+- Magaca ardayga
+- Student ID
+- Fasalka
+- Lambarka waalidka
+- Taariikhda diiwaangelinta
+- Status-ka ardayga
+
+2. Student Registration
+
+Samee Student Registration Form oo lagu diiwaangelin karo arday cusub.
+
+Foomku ha lahaado:
+
+- Full Name
+- Student ID
+- Gender
+- Date of Birth
+- Class / Grade
+- Parent/Guardian Name
+- Parent Phone Number
+- Address
+- Registration Date
+- Student Photo
+
+Marka foomka la submit-gareeyo, xogta ardayga ha lagu daro Student List, kadibna laga raadin karo Student Search.
+
+3. Class Management
+
+Samee qayb la yiraahdo Classes.
+
+Admin-ku ha awoodi karo:
+
+- Inuu sameeyo class cusub
+- Inuu magaca class-ka geliyo
+- Inuu doorto Grade
+- Inuu geliyo Room Number
+- Inuu doorto macallinka class-ka
+- Inuu arko tirada ardayda class-ka
+
+Tusaale:
+
+- Grade 1A
+- Grade 1B
+- Grade 2A
+- Grade 3A
+- Grade 4A
+- Grade 5A
+
+4. Teacher Management
+
+Samee qayb la yiraahdo Teachers oo maamulka uu ku diiwaangelin karo macallimiinta.
+
+Teacher Form ha lahaado:
+
+- Teacher Name
+- Teacher ID
+- Phone Number
+- Email
+- Subject
+- Class
+- Gender
+- Address
+- Date Joined
+- Teacher Photo
+
+Admin-ku ha awoodi karo inuu:
+
+- Add Teacher
+- Edit Teacher
+- Delete Teacher
+- Search Teacher
+- Arko classes-ka uu macallinku dhigayo.
+
+5. Dashboard
+
+Samee Admin Dashboard oo homepage-ka maamulka ka muuqdaan statistics:
+
+- Total Students
+- Total Teachers
+- Total Classes
+- New Students
+- Active Students
+
+Dashboard-ku ha lahaado cards iyo charts fudud oo professional ah.
+
+6. Student List
+
+Samee table ay ka muuqdaan dhammaan ardayda:
+
+Student ID| Name| Class| Parent Phone| Status| Action
+
+Action-ka ha lahaado:
+
+- View
+- Edit
+- Delete
+
+7. Class Form
+
+Marka admin-ku sameynayo class cusub, foomka ha lahaado:
+
+- Class Name
+- Grade
+- Section
+- Room Number
+- Class Teacher
+- Maximum Students
+
+Kadib class-ka ha ka muuqdo Classes List.
+
+8. Teacher → Class Assignment
+
+Samee system admin-ku ku xiriirin karo:
+Teacher → Class → Students
+
+Tusaale:
+
+Teacher: Ahmed Hassan
+Class: Grade 5A
+Students: 35
+
+Marka class-ka la furo, waa in la arki karaa macallinka iyo dhammaan ardayda class-kaas.
+
+9. Navigation Menu
+
+Website-ku ha lahaado sidebar/menu:
+
+- Dashboard
+- Students
+- Add Student
+- Teachers
+- Add Teacher
+- Classes
+- Add Class
+- Student Search
+- Reports
+- Settings
+- Logout
+
+10. Design
+
+Design-ku ha noqdo:
+
+- Modern school management dashboard
+- Clean UI
+- Professional
+- Responsive
+- Mobile friendly
+- Easy to use
+- Search bars
+- Tables
+- Cards
+- Forms
+- Modal windows
+- Confirmation before deleting
+
+Isticmaal HTML5 + CSS3 + Vanilla JavaScript.
+
+11. Data Storage
+
+Maadaama tani tahay frontend version, isticmaal localStorage si xogta ardayda, macallimiinta iyo classes-ka browser-ka loogu keydiyo.
+
+Marka page-ka la refresh-gareeyo, xogtu ha sii jirto.
+
+Code-ka u kala saar:
+
+- "index.html"
+- "style.css"
+- "script.js"
+
+Code-ku ha noqdo mid nadiif ah, comments leh, oo si fudud dambe loogu xiriirin karo backend/database.
+
+12. Important
+
+Dhammaan forms-ku waa inay si dhab ah u shaqeeyaan:
+
+- Add Student → Student List
+- Add Teacher → Teacher List
+- Add Class → Class List
+- Search Student → Student information
+- Edit → Update information
+- Delete → Remove information
+- Assign Teacher → Class
+- Assign Student → Class
+
+Ha sameynin website muuqaal kaliya ah. Samee functional frontend school management system oo xogta lagu dari karo, lagu raadin karo, lagu sixi karo laguna tirtiri karo.
